@@ -3,5 +3,5 @@ There are my codes of the exercises in Andrew Ng's Machine Learning course on Co
 This project is to learn how to use Github and record my learning of Machine Learning.
 
 ### Ex1
-Linear regression of Single and Multiple feature using Gradient Decent
+Linear regression of Single and Multiple feature using Gradient Decent  
 Score: 100%
