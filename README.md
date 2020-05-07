@@ -6,6 +6,6 @@ This project is to learn how to use Github and record my learning of Machine Lea
 Linear regression of Single and Multiple feature using Gradient Decent  
 Score: 100%
 
-### Ex1
+### Ex2
 Logistic regression and Regularization using advanced optimization algorithm   
 Score: 100%
