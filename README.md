@@ -27,3 +27,11 @@ Score: 75%
 Error: When calculating regularization term of cost function, the parameters of biases are not ignored
 ##### 2nd submission
 Score: 100%
+
+### Ex5
+Use train set, cross-validation set and test set to choose lambda of Regularization, the features used in Polynomial regression and the size of train set
+##### 1st submission
+Score: 80%
+Error: when using the sub-set of the train set, the size is not changed to the size of the sub-set
+##### 2nd submission
+Score: 100%
