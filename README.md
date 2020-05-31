@@ -34,4 +34,10 @@ Use train set, cross-validation set and test set to choose lambda of Regularizat
 Score: 80%  
 Error: when using the sub-set of the train set, the size is not changed to the size of the sub-set
 ##### 2nd submission
-Score: 100%
+Score: 100%  
+
+### Ex6
+Try linear kernel and Gaussian kernel of Support Vector Machine; try different C and sigma parameters of Gaussian kernel  
+Implement a simple spam classifier by using SVM
+##### 1st submission
+Score: 100%  
