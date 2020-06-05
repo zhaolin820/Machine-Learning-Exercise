@@ -41,3 +41,8 @@ Try linear kernel and Gaussian kernel of Support Vector Machine; try different C
 Implement a simple spam classifier by using SVM
 ##### 1st submission
 Score: 100%  
+
+### Ex7
+Achieve K-means and Principle Component Analysis; apply K-means to image compression; apply PCA to face image compression
+##### 1st submission
+Score: 100%  
